@@ -12,3 +12,11 @@ docs/
 
 # Dotenv file
 .env
+
+broadcast/
+lib/
+zkout/
+
+# Other
+.DS_Store
+.vscode/
